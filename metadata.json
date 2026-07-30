@@ -1,0 +1,6 @@
+{
+  "name": "Panchratna Spices",
+  "description": "Authentic Indian Spice Brand - Luxury website featuring premium ground spices, traditional masalas, manufacturing story, recipes, and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
